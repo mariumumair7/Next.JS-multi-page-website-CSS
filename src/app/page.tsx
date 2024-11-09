@@ -1,7 +1,6 @@
-
+import './globals.css';
 import Image from 'next/image';
 import React from 'react';
-import './src/globals.css';
 
 
 
